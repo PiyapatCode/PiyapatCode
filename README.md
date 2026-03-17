@@ -25,11 +25,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://prototypebusbooking.onrender.com)
-
----
-
 ## 📚 Currently Learning
 - System Design
 - AI Development
