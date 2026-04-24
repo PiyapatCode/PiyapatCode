@@ -1,33 +1,53 @@
 # Hello 👋 I'm Jay
 
-🎓 Software Engineering Student
-💻 Interested in AI, Web Development, and Software Engineering  
-
----
-
-## 🚀 Current Projects
-- Personalized Health Dashboard
-- Java OOP Projects
-- Web Portfolio
-
+## 🚀 About Me
+- 🎓 Student at Mae fah luang University
+- 💻 Interested in Web Development / Mobile App / AI
+- 🌱 Currently learning: Next.js, Flutter, NestJS
+- 🔥 Passionate about building useful software
+- 📫 Contact me: piyapatkoedsuk@gmail.com
 ---
 
 ## 🛠 Tech Stack
-- Java
+
+### Frontend
+- HTML
+- CSS
 - JavaScript
+- TypeScript
 - React
+- Next.js
+- Tailwind CSS
+- Java
+
+### Backend
 - Node.js
+- NestJS
+- Express.js
+- Nosql
+- MongoDB
+
+### Mobile
+- Flutter
+- Dart
+- React native
+
+### Tools
 - Git
-- Linux
-- Nextjs
-- Nestjs
-- tailwindcss
+- GitHub
+- Figma
+- Postman
+- Docker
+- VS Code
 
 ---
 
-## 📚 Currently Learning
-- System Design
-- AI Development
+## 📌 Featured Projects
+
+### 🏥 Health Checkup Dashboard
+Dashboard for monitoring patient health data and generating reports.
+
+**Tech Stack:** Next.js, Chart.js, Node.js
+
+
 ---
-## 📫 Contact
-- Email: 6831503059@lamduan.mfu.ac.th
