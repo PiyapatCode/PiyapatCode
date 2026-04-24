@@ -63,5 +63,6 @@ Dashboard for monitoring patient health data and generating reports.
 ## 🔗 Connect with Me
 
 - GitHub: https://github.com/PiyapatCode
+- Linkin: https://www.linkedin.com/in/piyapat-koedsuk-a05885405/
 
 ---
